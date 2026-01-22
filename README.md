@@ -1,5 +1,7 @@
 📊 Telecom X: Análisis de Evasión de Clientes (Churn)
+
 📝 Descripción del Proyecto
+
 Este proyecto aborda uno de los desafíos más críticos en el sector de las telecomunicaciones: la evasión de clientes (Churn). A través de un análisis exploratorio de datos (EDA) sobre la base de datos de Telecom X, se identificaron patrones de comportamiento que llevan a los usuarios a cancelar sus servicios.
 
 El objetivo principal es transformar datos crudos en insights accionables que permitan al equipo de marketing y fidelización reducir la tasa de abandono, la cual se sitúa actualmente en un 25.7%.
